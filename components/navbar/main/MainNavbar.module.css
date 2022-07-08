@@ -1,2 +1,4 @@
-.component {
+.logotext {
+  font-family: 'Averia Serif Libre';
+  @apply text-6xl;
 }
