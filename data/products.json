@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Assam Decaf",
+    "description": "",
+    "prices": [
+      { "size": "Small - 100g", "price": 29.95 },
+      { "size": "Medium - 250g", "price": 72.95 },
+      { "size": "Large - 500g", "price": 145.95 }
+    ],
+    "category": "Black Tea",
+    "subCategory": "Assam Black Tea",
+    "stock": true,
+    "imageURL": "/images/products/AssamDecaf-600x600.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Assam Mokalbari",
+    "description": "Well-loved and popular Assam from the famous Mokalbari tea estate",
+    "prices": [
+      { "size": "Small - 100g", "price": 34.95 },
+      { "size": "Medium - 250g", "price": 85.95 },
+      { "size": "Large - 500g", "price": 170.95 }
+    ],
+    "category": "Black Tea",
+    "subCategory": "Assam Black Tea",
+    "stock": true,
+    "imageURL": "/images/products/AssamMokalbari-600x600.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Ceylon Adawatte OP",
+    "description": "From the uva district in Sri Lanka this plantations brings out the best at its peak season.medium to strong in cup character ,excellent both with or without milk.",
+    "prices": [
+      { "size": "Small - 100g", "price": 19.95 },
+      { "size": "Medium - 250g", "price": 49.95 },
+      { "size": "Large - 500g", "price": 95.95 }
+    ],
+    "category": "Black Tea",
+    "subCategory": "Ceylon Black Tea",
+    "stock": true,
+    "imageURL": "/images/products/BlackTea-Ceylon-Adawatte-OP-600x600.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Java OP-Sup",
+    "description": "A tea with a very old tradition. The Dutch ‘EAST-INDIAN-COMPANY’, founded in 1602 produced the so called Batavia Blend in strictly limited quantities during harvest time in July/August. This blend of finest sorts of leaf tea brews into an elegant nutty flavor.",
+    "prices": [
+      { "size": "Small - 100g", "price": 19.95 },
+      { "size": "Medium - 250g", "price": 49.95 },
+      { "size": "Large - 500g", "price": 95.95 }
+    ],
+    "category": "Black Tea",
+    "subCategory": "Java Black Tea",
+    "stock": true,
+    "imageURL": "/images/products/BlackTeaJavaCiater-600x600.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Pai Mu Tan",
+    "description": "Although known as white Tea, this special fermented green tea is blended with white tips. It is delicate and light in brew.",
+    "prices": [
+      { "size": "Small - 100g", "price": 59.95 },
+      { "size": "Medium - 250g", "price": 145.95 },
+      { "size": "Large - 500g", "price": 295.95 }
+    ],
+    "category": "Green Tea",
+    "subCategory": "Fujian Green Tea",
+    "stock": true,
+    "imageURL": "/images/products/ChinaKingPai-600x600.jpg"
+  }
+]
